@@ -1,30 +1,32 @@
-# myvue2.0
+# 项目介绍
+该项目为vue学习项目，模仿饿了吗app进行开发。
 
-> A Vue.js project
+# 整体效果
 
-## Build Setup
+## 商品页面
+![Image text](https://github.com/youzhi0403/myVue2.0/blob/master/README_PICTURE/p1.png)
 
-``` bash
-# install dependencies
-npm install
+## 评论页面
+![Image text](https://github.com/youzhi0403/myVue2.0/blob/master/README_PICTURE/p2.png)
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 商家页面
+![Image text](https://github.com/youzhi0403/myVue2.0/blob/master/README_PICTURE/p3.png)
 
-# build for production with minification
-npm run build
+# 技术栈
+1.vue 2.5.2  
+2.vue-router 3.0.1  
+3.axios 0.18.0  
+4.better-scroll  1.13.2  
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 快速部署
 
-# run unit tests
-npm run unit
+1.clone到本地。
 
-# run e2e tests
-npm run e2e
+2.安装nodejs环境。（我本地的nodejs版本为v12.13.0）
 
-# run all tests
-npm test
-```
+3.进入项目根目录，运行npm install命令。
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+4.运行npm run dev命令。
+
+5.通过 http://localhost:8080/访问。
+
