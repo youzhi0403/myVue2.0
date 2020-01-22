@@ -28,5 +28,5 @@
 
 4.运行npm run dev命令。
 
-5.通过 http://localhost:8080/访问。
+5.通过 http://localhost:8080/ 访问。
 
